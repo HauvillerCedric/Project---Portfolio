@@ -12,12 +12,12 @@ Plusieurs critères ont été imposés pour le projet :
 
 * Durée de la réalisation : 4 semaines.
 * Une page en HTML et une page en CSS.
-* Création d'un firmware (via Trello).
+* Création d'un backlog (via Trello).
 * Utilisation de Git.
 * Responsivité.
 * Les pages doivent être graphiquement cohérente
 
-## **Réalisation individuel**
+## **Réalisation individuelle**
 
 Après échange avec le groupe de travail, je me suis chargé de la page "projet". Celle-ci devait contenir :
 
